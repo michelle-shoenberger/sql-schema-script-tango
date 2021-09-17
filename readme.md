@@ -1,4 +1,4 @@
-# Schema SQL
+# Schema Script
 
 Now that you've designed & revised the schema for three different applications, write a SQL script to create the matching schema in Postgresql.
 
